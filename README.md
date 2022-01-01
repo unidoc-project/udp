@@ -23,5 +23,9 @@ Hello World Example
 # View Output / Çıktıyı Görüntüleme
 
 ```
-console>python udp.py run example.udp 
+console>python udp.py run example.udp
+```
+or use executable<br>
+```
+console>udp.exe run example.udp
 ```
